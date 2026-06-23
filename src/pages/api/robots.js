@@ -1,4 +1,3 @@
-import Layout from '../components/Layout';
 import Link from 'next/link';
 import { useState, useRef, useCallback } from 'react';
 import { useRouter } from 'next/router';
