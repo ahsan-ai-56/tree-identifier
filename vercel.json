@@ -4,6 +4,6 @@
   "outputDirectory": ".next",
   "framework": "nextjs",
   "env": {
-    "GROQ_API_KEY": "@groq-api-key"
+    "GROQ_API_KEY": "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"
   }
 }
